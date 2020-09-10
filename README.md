@@ -11,3 +11,6 @@
 /system/etc/hosts
 ### Mac&iPhone&Linux
 /etc/hosts
+
+## Success
+替换成功后 用`ipconfig/flushdns`命令即可刷新DNS解析缓存
