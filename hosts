@@ -1,0 +1,41 @@
+#Github : https://github.com/zxwljs/Github-hosts
+
+# localhost
+127.0.0.1  localhost
+#Github
+199.232.69.194  github.global.ssl.fastly.net
+140.82.113.3  github.com
+52.74.223.119  github.com
+13.229.188.59  github.com
+140.82.113.4  github.com
+13.250.177.223  github.com
+140.82.112.4  github.com
+140.82.114.3  github.com
+140.82.112.3  github.com
+140.82.112.22  central.github.com
+
+#Github ssl
+103.42.176.244  github.global.ssl.fastly.net
+103.200.30.143  github.global.ssl.fastly.net
+45.114.11.25  github.global.ssl.fastly.net
+31.13.95.17  github.global.ssl.fastly.net
+154.83.15.45  github.global.ssl.fastly.net
+210.56.51.193  github.global.ssl.fastly.net
+154.83.15.20  github.global.ssl.fastly.net
+118.184.78.78  github.global.ssl.fastly.net
+154.85.102.30  github.global.ssl.fastly.net
+45.114.11.238  github.global.ssl.fastly.net
+116.89.243.8  github.global.ssl.fastly.net
+150.107.3.176  github.global.ssl.fastly.net
+151.101.77.194  github.global.ssl.fastly.net
+103.200.30.245  github.global.ssl.fastly.net
+159.138.20.20  github.global.ssl.fastly.net
+157.240.15.8  github.global.ssl.fastly.net
+31.13.87.19  github.global.ssl.fastly.net
+151.101.77.164  github.global.ssl.fastly.net
+154.83.14.134  github.global.ssl.fastly.net
+43.226.16.8  github.global.ssl.fastly.net
+118.184.26.113  github.global.ssl.fastly.net
+103.223.122.178  github.global.ssl.fastly.net
+103.230.123.190  github.global.ssl.fastly.net
+31.13.95.38  github.global.ssl.fastly.net
